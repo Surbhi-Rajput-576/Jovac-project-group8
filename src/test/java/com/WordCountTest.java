@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 public class WordCountTest {
 
 	WordCountService wcs = new WordCountService();
-	String s1 = "This is string 1";
+	String s1 = "This is string 1 ";
 	String s2 = "This string has more number of letters";
 	String s3 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	String s4 = "12345678910";
